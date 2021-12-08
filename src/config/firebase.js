@@ -5,14 +5,13 @@ import 'firebase/functions';
 import 'firebase/analytics';
 
 const firebaseConfig = {
-  apiKey: 'AIzaSyD4oiOsrzcYAPw7r5dwduyT4KpKAvvTZyo',
-  authDomain: 'cool-tord.firebaseapp.com',
-  databaseURL: 'https://cool-tord.firebaseio.com',
-  projectId: 'cool-tord',
-  storageBucket: 'cool-tord.appspot.com',
-  messagingSenderId: '459688734949',
-  appId: '1:459688734949:web:4630328560106c4cd7a40c',
-  measurementId: 'G-RKTXMTPFJQ',
+  apiKey: "AIzaSyBOAlkDybjNyPqHWcfTYfF9BkQCg71Zds0",
+  authDomain: "sharearccom.firebaseapp.com",
+  databaseURL: "https://sharearccom-default-rtdb.firebaseio.com",
+  projectId: "sharearccom",
+  storageBucket: "sharearccom.appspot.com",
+  messagingSenderId: "36714115889",
+  appId: "1:36714115889:web:22b7bf0dcef079f1d9f610"
 };
 
 firebase.initializeApp(firebaseConfig);
